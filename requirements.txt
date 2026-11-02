@@ -1,0 +1,7 @@
+# 运行依赖
+numpy>=1.24
+opencv-python-headless>=4.7
+mediapipe>=0.10.14
+
+# 打包依赖（仅需构建 exe 时安装）
+pyinstaller>=6.0
